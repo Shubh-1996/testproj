@@ -1,0 +1,19 @@
+{
+  "name": "testproj",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubh-1996/testproj.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubh-1996/testproj/issues"
+  },
+  "homepage": "https://github.com/Shubh-1996/testproj#readme"
+}
