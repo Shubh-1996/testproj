@@ -1,4 +1,6 @@
 /**
  * This is the first JS file in my repo
  */
+import {calSum} from './calc';
 console.log("Testing......")
+console.log("calling calSum::: ", calSum(2,3));
